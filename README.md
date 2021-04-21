@@ -1,4 +1,4 @@
-# bellCurveDistribution
+# normalDistribution
 
 To anyone that was in the Discord chat, here is what we coded then.
 Thanks all for the motivation, ideas and questions that made it possible!
@@ -12,8 +12,8 @@ Also Andy, I am expecting to see a blessed integration with a realtime graph upd
 ## Instalation
 In your terminal
 ```
-git clone https://github.com/cloutierMat/bellCurveDistribution.git
-cd bellCurveDistribution
+git clone https://github.com/cloutierMat/normalDistribution.git
+cd normalDistribution
 npm start
 ```
 

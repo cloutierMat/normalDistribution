@@ -1,0 +1,12 @@
+{
+	"name": "muhammad",
+	"version": "1.0.0",
+	"description": "",
+	"main": "bellCurve.js",
+	"scripts": {
+		"start": "node bellCurve.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC"
+}

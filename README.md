@@ -3,16 +3,20 @@
 To anyone that was in the Discord chat, here is what we coded then.
 Thanks all for the motivation, ideas and questions that made it possible!
 
-Special shoot out to Chloe who asked for validation of my statement. This would never have happened otherwise!
+Special shoot out to [Chloe](https://github.com/cknduo) who asked for proof. This would never have happened otherwise!
 
 It truly ended up being a random evening creating randomness out of random event!
 
-Also Andy, I am expecting to see a blessed integration with a realtime graph update in the terminal!
+Also [Andy](https://github.com/araadt), I am expecting to see a blessed integration with a realtime graph update in the terminal!
 
 ## Instalation
 In your terminal
 ```
 git clone https://github.com/cloutierMat/normalDistribution.git
+```
+
+## To Run
+```
 cd normalDistribution
 npm start
 ```

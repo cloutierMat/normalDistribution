@@ -6,4 +6,4 @@ for (let i = 0, modifierRange; i < modifierAmount; i++) {
     dist.push(...Array(modifierRange).fill(0))
 }
 for (let i = 0; i < 1000000; i++) dist[ceil(modifierArr.reduce((result, func) => result + func(), 0))]++
-for (const val in dist) console.log('*'.repeat(floor(dist[val] / floor(max(...dist) / width))))
+for (const val of dist) console.log('*'.repeat(floor(val / floor(max(...dist) / width))))
